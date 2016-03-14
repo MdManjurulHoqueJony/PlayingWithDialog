@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Playing With Dialog</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_dialog_1">Show Dialog 1</string>
+    <string name="show_dialog_2">Show Dialog 2</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="dialog_msg">Do You Like This Dialog?</string>
+    <string name="dialog1">Dialog1</string>
+    <string name="dialog2">Dialog2</string>
+    <string name="yes_clicked">Yes clicked!</string>
+    <string name="no_clicked">No clicked!</string>
+    <string name="item">Item </string>
+    <string name="habi_jabi">Habijabi.com.yahoo.gmail</string>
+    <string name="show_dialog_as_fragment">Show Dialog As Fragment</string>
+    <string name="dlg_fragment">Dialog2AsFragment</string>
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>
